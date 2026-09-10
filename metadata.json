@@ -1,0 +1,12 @@
+{
+  "name": "Smart Inspector - Field Monitoring Platform",
+  "description": "Smart India Hackathon real-time field inspection mobile app and supervisor web dashboard with GPS tracking, offline-first sync, SLA defect management, and audit verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
