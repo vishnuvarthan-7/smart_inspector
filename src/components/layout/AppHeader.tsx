@@ -67,9 +67,6 @@ export const AppHeader: React.FC<AppHeaderProps> = ({
           <div>
             <div className="flex items-center gap-2">
               <span className="font-bold text-lg tracking-tight text-white">Smart Inspector</span>
-              <span className="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-orange-500/20 text-orange-400 border border-orange-500/30">
-                SIH 2026
-              </span>
             </div>
             <p className="text-xs text-slate-400 hidden sm:block">
               Real-Time Field Monitoring & Inspection Verification Platform

@@ -16,7 +16,7 @@ import {
 export const DEMO_USERS: User[] = [
   {
     id: 'usr-1',
-    name: 'Rajesh Kumar',
+    name: 'vishnu prasath',
     email: 'rajesh.inspector@sih.gov.in',
     role: 'INSPECTOR',
     inspectorId: 'INSP-BLR-101',
@@ -26,7 +26,7 @@ export const DEMO_USERS: User[] = [
   },
   {
     id: 'usr-2',
-    name: 'Priya Sharma',
+    name: 'maha',
     email: 'priya.supervisor@sih.gov.in',
     role: 'SUPERVISOR',
     avatarUrl: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80',
@@ -35,7 +35,7 @@ export const DEMO_USERS: User[] = [
   },
   {
     id: 'usr-3',
-    name: 'Dr. Anand Verma',
+    name: 'vishnu',
     email: 'anand.director@sih.gov.in',
     role: 'DIRECTOR',
     avatarUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80',
@@ -44,7 +44,7 @@ export const DEMO_USERS: User[] = [
   },
   {
     id: 'usr-4',
-    name: 'Vikram Singh',
+    name: 'siva',
     email: 'vikram.admin@sih.gov.in',
     role: 'ADMIN',
     avatarUrl: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80',
